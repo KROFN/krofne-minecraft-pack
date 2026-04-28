@@ -16,3 +16,8 @@ Thumbs.db
 .vscode/
 "@ | Set-Content -Encoding UTF8 .gitignore
 node_modules
+
+dist/
+dist-electron/
+node_modules/
+*.tsbuildinfo
