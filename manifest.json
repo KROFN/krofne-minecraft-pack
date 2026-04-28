@@ -1,0 +1,577 @@
+{
+  "schemaVersion": 1,
+  "packName": "krofnePack",
+  "packVersion": "1.0.0",
+  "minecraftVersion": "1.20.1",
+  "loader": "forge",
+  "loaderVersion": "47.3.0",
+  "manifestUpdatedAt": "2026-04-28T22:04:22.426Z",
+  "changelog": [],
+  "settings": {
+    "extraFilesPolicy": "move_to_disabled",
+    "maxParallelDownloads": 3,
+    "downloadRetries": 3
+  },
+  "mods": [
+    {
+      "id": "alexsmobs",
+      "name": "alexsmobs-1.22.9(1)",
+      "fileName": "alexsmobs-1.22.9(1).jar",
+      "downloadUrl": "https://raw.githubusercontent.com/KROFN/krofne-minecraft-pack/main/mods/alexsmobs-1.22.9(1).jar",
+      "sha512": "b50280057926d750f9ffbf6a8df36deb37529356895f6bf59f25d272ecf69afccec65ec1a5c3a8bfad24f9475c15b93c5ec4666447b1fce26a90c41445bbfb04",
+      "sizeBytes": 26350793,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "id": "amendments",
+      "name": "amendments-1.20-2.2.5",
+      "fileName": "amendments-1.20-2.2.5.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/KROFN/krofne-minecraft-pack/main/mods/amendments-1.20-2.2.5.jar",
+      "sha512": "7f1ebaefc4d71e523e92acd5e7b255695c7248695f9c89c393527146128c2780c4cdc079e3982485309dbf2a093dedd0a42177bed8242b641fd77692f211ef34",
+      "sizeBytes": 1301022,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "id": "appleskin",
+      "name": "appleskin-forge-mc1.20.1-2.5.1 (1)",
+      "fileName": "appleskin-forge-mc1.20.1-2.5.1 (1).jar",
+      "downloadUrl": "https://raw.githubusercontent.com/KROFN/krofne-minecraft-pack/main/mods/appleskin-forge-mc1.20.1-2.5.1 (1).jar",
+      "sha512": "3176f928fb6c60d27f5edb610ca4ab0236175404eebf32797a1ec6cdd794bb294a260231579578536d03571377e43c6181adc75d8dd2c0733f17fce4f7e636b9",
+      "sizeBytes": 47428,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "id": "architectury",
+      "name": "architectury-9.2.14-forge (1)",
+      "fileName": "architectury-9.2.14-forge (1).jar",
+      "downloadUrl": "https://raw.githubusercontent.com/KROFN/krofne-minecraft-pack/main/mods/architectury-9.2.14-forge (1).jar",
+      "sha512": "cf67f2050cafa00f0bee42e6d7bef77fdb808ac4f71742f7b4d6d5c1e6ffb49561a5a252f332d2b78a9767bdb5faa284611790dba303fbdc736ae36d794f61c7",
+      "sizeBytes": 580602,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "id": "athena",
+      "name": "athena-forge-1.20.1-3.1.2",
+      "fileName": "athena-forge-1.20.1-3.1.2.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/KROFN/krofne-minecraft-pack/main/mods/athena-forge-1.20.1-3.1.2.jar",
+      "sha512": "5a71a1c220eafbfbdb570fa204454352b48d55f238db1a5b398a8c40f6b0fbd8c09a2f6c10def330abdf3daadaa24dfa52471f8de931a93fd99dc7d85b60960b",
+      "sizeBytes": 91808,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "id": "carryon",
+      "name": "carryon-forge-1.20.1-2.1.2.7",
+      "fileName": "carryon-forge-1.20.1-2.1.2.7.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/KROFN/krofne-minecraft-pack/main/mods/carryon-forge-1.20.1-2.1.2.7.jar",
+      "sha512": "4f75afb703dd71c322d4e2e27d28d7ab4afeb0c242bcee6d1eb5fef59ee4347352f1ca55f1826743957d2e95a951ed13884356485b0a979b14010915079e2c29",
+      "sizeBytes": 439457,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "id": "chipped",
+      "name": "chipped-forge-1.20.1-3.0.7",
+      "fileName": "chipped-forge-1.20.1-3.0.7.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/KROFN/krofne-minecraft-pack/main/mods/chipped-forge-1.20.1-3.0.7.jar",
+      "sha512": "be1871655e213cf488d5049058200e03655f63b5922b6031af142d79d8958dca6653e7fa501f1aa2fda5544ad44a4f593521a7927a516e99579406a23a187045",
+      "sizeBytes": 15060263,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "id": "citadel",
+      "name": "citadel-2.6.3-1.20.1 (1)",
+      "fileName": "citadel-2.6.3-1.20.1 (1).jar",
+      "downloadUrl": "https://raw.githubusercontent.com/KROFN/krofne-minecraft-pack/main/mods/citadel-2.6.3-1.20.1 (1).jar",
+      "sha512": "42e3fa0ddefb1ebdbba4242d81caede834cd0bbd96e4e90b12b2157a5b07c68b625f64046de1f9e1ad4d6056d3536e17207be5f4b24960582052d713b13f22c0",
+      "sizeBytes": 3185275,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "id": "compat_alexsmobs_naturalist",
+      "name": "Compat_AlexsMobs-Naturalist",
+      "fileName": "Compat_AlexsMobs-Naturalist.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/KROFN/krofne-minecraft-pack/main/mods/Compat_AlexsMobs-Naturalist.jar",
+      "sha512": "76f014fea734855cee2d235e9605395964a08b362edbef7a02d5003a3b5acdbc49323fdd22dddc84d125133a91fb24d26941fdd1eb602ddc6a188ec2143f5597",
+      "sizeBytes": 107423,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "id": "controllable",
+      "name": "controllable-forge-1.20.1-0.21.8",
+      "fileName": "controllable-forge-1.20.1-0.21.8.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/KROFN/krofne-minecraft-pack/main/mods/controllable-forge-1.20.1-0.21.8.jar",
+      "sha512": "252e5ad49b544b2ce271d1e89df598671ce7f352c7bba2fc080a3b3c933bdec765fe766a65cf8041d7d8faf59d8e7692d692cb5b7f1b7dd90bdfb4d3361def4f",
+      "sizeBytes": 7569414,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "id": "create",
+      "name": "create-1.20.1-6.0.8(1)",
+      "fileName": "create-1.20.1-6.0.8(1).jar",
+      "downloadUrl": "https://raw.githubusercontent.com/KROFN/krofne-minecraft-pack/main/mods/create-1.20.1-6.0.8(1).jar",
+      "sha512": "5b51f5d31437d9bfbf221b67459abd87260d284874e1e23b7ed1d522b23a48059a3b1d2c1c541428da35dc6be15561b4f3c7f36aac6df3a0e8db6a278f6b0316",
+      "sizeBytes": 19170905,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "id": "createaddition",
+      "name": "createaddition-1.20.1-1.3.3(1)",
+      "fileName": "createaddition-1.20.1-1.3.3(1).jar",
+      "downloadUrl": "https://raw.githubusercontent.com/KROFN/krofne-minecraft-pack/main/mods/createaddition-1.20.1-1.3.3(1).jar",
+      "sha512": "a34f5c3b0226069d2882a3e23ba0e364a78bc5d26983b0cecea8d998718f454d3238ab7c5b4b3ef1749b6f2b26a4e427839c7c32468558fa7a8edb0edc727d10",
+      "sizeBytes": 1577313,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "id": "croptopia",
+      "name": "Croptopia-1.20.1-FORGE-4.0.0",
+      "fileName": "Croptopia-1.20.1-FORGE-4.0.0.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/KROFN/krofne-minecraft-pack/main/mods/Croptopia-1.20.1-FORGE-4.0.0.jar",
+      "sha512": "a9cb976f1a44c39e7cebfeafff6b36bf1d9b2c5151c0b8258f836b48fd1a6af1b01bc0020455eb3c38efe9341bbe136fccded0a2aed56de46a7073361b75acac",
+      "sizeBytes": 2128754,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "id": "diamondvein",
+      "name": "diamondvein-1.2",
+      "fileName": "diamondvein-1.2.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/KROFN/krofne-minecraft-pack/main/mods/diamondvein-1.2.jar",
+      "sha512": "b0834367b075b4eabd3a5261538388abf5d4179f0cc7b245334b75088baa99ac9c8275d8e9a8abf6222062f091f6cdfbe9aed83aa4cdf57e807a40d06328f831",
+      "sizeBytes": 66348,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "id": "dragns_crop_overhaul",
+      "name": "DragNs_Crop_Overhaul-1.20.1-1.2.1",
+      "fileName": "DragNs_Crop_Overhaul-1.20.1-1.2.1.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/KROFN/krofne-minecraft-pack/main/mods/DragNs_Crop_Overhaul-1.20.1-1.2.1.jar",
+      "sha512": "a47f3cc965fb78b2db4d1553235971c6621194ba3ed3c8c27359b29705967f87f3a2cc1fc98ecf8b7946f584823859e40163df3420e97121a0d6205f4aa74450",
+      "sizeBytes": 6663211,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "id": "embeddium",
+      "name": "embeddium-0.3.31+mc1.20.1 (1)",
+      "fileName": "embeddium-0.3.31+mc1.20.1 (1).jar",
+      "downloadUrl": "https://raw.githubusercontent.com/KROFN/krofne-minecraft-pack/main/mods/embeddium-0.3.31+mc1.20.1 (1).jar",
+      "sha512": "ffbf2da4685260a4d5c14c621708bd20722563f084f042d3dfb0a7b87f048e39299648c854a93939129da0d23a15a91ec628560d601e76074b08e275f6e132e9",
+      "sizeBytes": 1320675,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "id": "epherolib",
+      "name": "EpheroLib-1.20.1-FORGE-1.2.0",
+      "fileName": "EpheroLib-1.20.1-FORGE-1.2.0.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/KROFN/krofne-minecraft-pack/main/mods/EpheroLib-1.20.1-FORGE-1.2.0.jar",
+      "sha512": "236c34e058b12f8cce947b20d906d5f7c628c47cb98b56d7613622251867b2477974cecbe58ae71f74149c06b0cc3024984430485e469636de42ae1da71a4abb",
+      "sizeBytes": 756864,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "id": "farmersdelight",
+      "name": "FarmersDelight-1.20.1-1.2.11a",
+      "fileName": "FarmersDelight-1.20.1-1.2.11a.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/KROFN/krofne-minecraft-pack/main/mods/FarmersDelight-1.20.1-1.2.11a.jar",
+      "sha512": "1b1fb57bcfb94573739fe8400038b07ed82f45118375bbbd9aa16b84fbf1a6716d01d9e0b95a4906afd2f31a9361292525da15a0a25027ac695dff54e0f9a66d",
+      "sizeBytes": 2963831,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "id": "ferritecore",
+      "name": "ferritecore-6.0.1-forge (1)",
+      "fileName": "ferritecore-6.0.1-forge (1).jar",
+      "downloadUrl": "https://raw.githubusercontent.com/KROFN/krofne-minecraft-pack/main/mods/ferritecore-6.0.1-forge (1).jar",
+      "sha512": "a1960a7c03dc32d4ccaccaf28afdd9b078758bbd62d15a91d4039a83fa9397a098e89b69591f6bd5190254d9ee97e502504154b9aec764adb8c65f000b75ba2c",
+      "sizeBytes": 123034,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "id": "findme",
+      "name": "findme-3.2.3-forge-1.20.1",
+      "fileName": "findme-3.2.3-forge-1.20.1.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/KROFN/krofne-minecraft-pack/main/mods/findme-3.2.3-forge-1.20.1.jar",
+      "sha512": "99ec2055022dc58ed17547ca6ffea0694cfa9692f5703d3113f3821892c130661dfa6466e6a6f69e5f9bf22aa6b8165a0e87bdbfdf11635a960af6815c5cf201",
+      "sizeBytes": 38674,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "id": "framework",
+      "name": "framework-forge-1.20.1-0.7.15",
+      "fileName": "framework-forge-1.20.1-0.7.15.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/KROFN/krofne-minecraft-pack/main/mods/framework-forge-1.20.1-0.7.15.jar",
+      "sha512": "0e1210609917c6dc161df2bc42df85ee5004f4b7722f121db75f0ea20f768dceef67a9591e488b5f01a87c51a3b4c4674cee3ccc2bf94502267356f797a4e074",
+      "sizeBytes": 309560,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "id": "geckolib",
+      "name": "geckolib-forge-1.20.1-4.8.3",
+      "fileName": "geckolib-forge-1.20.1-4.8.3.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/KROFN/krofne-minecraft-pack/main/mods/geckolib-forge-1.20.1-4.8.3.jar",
+      "sha512": "938f1f703fa77a2e05aad4afa1052260521badee006d29529d0ed4e2d3fbaae47c9ffbc95b5c4982c3386e7e7d6592c9c79df31597cc8238db41fc0b1e431db6",
+      "sizeBytes": 1039047,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "id": "glitchcore",
+      "name": "GlitchCore-forge-1.20.1-0.0.1.1 (1)",
+      "fileName": "GlitchCore-forge-1.20.1-0.0.1.1 (1).jar",
+      "downloadUrl": "https://raw.githubusercontent.com/KROFN/krofne-minecraft-pack/main/mods/GlitchCore-forge-1.20.1-0.0.1.1 (1).jar",
+      "sha512": "f0bace5a314202b1e116fcece2e1e6feae8c878a8ba324a4405eb48b7067bd4b92a0d21a544758e1e7ce97b6efec646677ecbc7b00eca5cbd37e52eac4aa27de",
+      "sizeBytes": 87550,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "id": "goofygoober",
+      "name": "goofygoober-1.20.1",
+      "fileName": "goofygoober-1.20.1.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/KROFN/krofne-minecraft-pack/main/mods/goofygoober-1.20.1.jar",
+      "sha512": "dbd6319f82c39ea9111ebe9eeccc1de252d7c910f063cafca8ffd856fd168136a8fc6051af2d8820165bc2271a80ba63b97768332b2e6b24e8da1d015a9abdaa",
+      "sizeBytes": 1317595,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "id": "industrial_foregoing",
+      "name": "industrial-foregoing-1.20.1-3.5.22",
+      "fileName": "industrial-foregoing-1.20.1-3.5.22.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/KROFN/krofne-minecraft-pack/main/mods/industrial-foregoing-1.20.1-3.5.22.jar",
+      "sha512": "e6942565c776f55e93f5d466886a66ef5744e3ddc4c0810c7daf396c6143f21966679e06c947a9536af08886f4d44d00a8b36b1e58742241f732821595495447",
+      "sizeBytes": 4621983,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "id": "industrialupgrade",
+      "name": "IndustrialUpgrade-1.20.1-3.3.2.33",
+      "fileName": "IndustrialUpgrade-1.20.1-3.3.2.33.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/KROFN/krofne-minecraft-pack/main/mods/IndustrialUpgrade-1.20.1-3.3.2.33.jar",
+      "sha512": "7ff091df53fa61e8aaf954d31b0e4c80bfb5d3d0e57a4a9b435e1f06a082d86fa7d0b69ac489d3c90e135e62e14e775a761360c6d1d7e9c9c9a8d71dfa792f25",
+      "sizeBytes": 29438048,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "id": "inventoryprofilesnext",
+      "name": "InventoryProfilesNext-forge-1.20-1.10.20",
+      "fileName": "InventoryProfilesNext-forge-1.20-1.10.20.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/KROFN/krofne-minecraft-pack/main/mods/InventoryProfilesNext-forge-1.20-1.10.20.jar",
+      "sha512": "8d2ecb06d6cebe56b1e55c1cf535bd4aefd8c1bd7642741435ea0c07a1073e275c40c6b2bfd9c3f2d8fd73b711422e4e2b5e39f84ae756028517715633ed5658",
+      "sizeBytes": 1457354,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "id": "jade",
+      "name": "Jade-1.20.1-Forge-11.13.2 (1)",
+      "fileName": "Jade-1.20.1-Forge-11.13.2 (1).jar",
+      "downloadUrl": "https://raw.githubusercontent.com/KROFN/krofne-minecraft-pack/main/mods/Jade-1.20.1-Forge-11.13.2 (1).jar",
+      "sha512": "612c7535d28ae0cb336f31b790770b3dcb5173d496fb74eabcb28d06e3b88e72733128060cefc4ae4147cce528a8e8c09688a36d8f9e11dbf77e93d89b743560",
+      "sizeBytes": 552486,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "id": "jei",
+      "name": "jei-1.20.1-forge-15.20.0.130",
+      "fileName": "jei-1.20.1-forge-15.20.0.130.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/KROFN/krofne-minecraft-pack/main/mods/jei-1.20.1-forge-15.20.0.130.jar",
+      "sha512": "1987d97dfee85090117b3f5572059fcbf242f8dd4b41e2002c21ff271100aaf2ccc2f3ff912fa36a8cfec946c0a55e170d98c8b10347121357c9d428e08f6427",
+      "sizeBytes": 1409705,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "id": "kotlinforforge",
+      "name": "kotlinforforge-4.12.0-all",
+      "fileName": "kotlinforforge-4.12.0-all.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/KROFN/krofne-minecraft-pack/main/mods/kotlinforforge-4.12.0-all.jar",
+      "sha512": "767f40030ed4b370a3838fa65ae1b79974f31979342fff7cc834a0d5f39eb28612642519352ff2a1dd5226ce1f745f8b3156ee3625ffde01219137d064c1ee40",
+      "sizeBytes": 7442998,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "id": "letsdo_vinery",
+      "name": "letsdo-vinery-forge-1.4.41",
+      "fileName": "letsdo-vinery-forge-1.4.41.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/KROFN/krofne-minecraft-pack/main/mods/letsdo-vinery-forge-1.4.41.jar",
+      "sha512": "22c900eb1542d9d47b21f9708e76f25d82dc2393a800ed5e447ba34ef8756d6460e4b981a7d7585ddcf2796c5e6b2d8355403e5c830966bc5aa628f6468500e9",
+      "sizeBytes": 2041283,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "id": "libipn",
+      "name": "libIPN-forge-1.20-4.0.2",
+      "fileName": "libIPN-forge-1.20-4.0.2.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/KROFN/krofne-minecraft-pack/main/mods/libIPN-forge-1.20-4.0.2.jar",
+      "sha512": "be677ed6dd4aa60a67ec1b83c89db8ed7460c34f54e5783df94245b9e0a5af9d3e12ebb322cb04210dfaa6527ad1e555a998931adfd69c5a4c57ac0e4dc15819",
+      "sizeBytes": 693301,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "id": "moonlight",
+      "name": "moonlight-1.20-2.16.30-forge",
+      "fileName": "moonlight-1.20-2.16.30-forge.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/KROFN/krofne-minecraft-pack/main/mods/moonlight-1.20-2.16.30-forge.jar",
+      "sha512": "845f2a301fc9714c7a473e7faf511bedced4b4549a94c76bc0dce5b02b7352a7f5cd84a04c9d40c6f38d9988821f3d5e1fb0c29ea9911b8d1676b200c4e078bc",
+      "sizeBytes": 1389600,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "id": "mousetweaks",
+      "name": "MouseTweaks-forge-mc1.20.1-2.25.1 (1)",
+      "fileName": "MouseTweaks-forge-mc1.20.1-2.25.1 (1).jar",
+      "downloadUrl": "https://raw.githubusercontent.com/KROFN/krofne-minecraft-pack/main/mods/MouseTweaks-forge-mc1.20.1-2.25.1 (1).jar",
+      "sha512": "a3bb0272c0a1a3be9250dfee030bb8f86217fa6a32bd534be8c940fdd8c466c800c2df85874877983ced36ecfc28c8ced6c0d42107c1ab621385b4be9a7c65eb",
+      "sizeBytes": 76237,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "id": "naturalist",
+      "name": "naturalist-5.0pre5+forge-1.20.1",
+      "fileName": "naturalist-5.0pre5+forge-1.20.1.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/KROFN/krofne-minecraft-pack/main/mods/naturalist-5.0pre5+forge-1.20.1.jar",
+      "sha512": "4639b993c6cefda8fd8e57cc2fd1e8ce79786e8f1ae4fe4e191f5f716d6cc4b689dae77fab40801325b8db815f92e6e15d7e1d4d9beb68b26a105e96e7cce05f",
+      "sizeBytes": 3807415,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "id": "oculus",
+      "name": "oculus-mc1.20.1-1.8.0 (1)",
+      "fileName": "oculus-mc1.20.1-1.8.0 (1).jar",
+      "downloadUrl": "https://raw.githubusercontent.com/KROFN/krofne-minecraft-pack/main/mods/oculus-mc1.20.1-1.8.0 (1).jar",
+      "sha512": "1bb4ac77400d6684347988ed298a692c2cb15cf7923693607eb8739b171a20fef7412259e9e157111d9ce21779badab386029956f7d2283a9e611722a373e9d5",
+      "sizeBytes": 2851119,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "id": "oregeneration",
+      "name": "oregeneration-1.0.0",
+      "fileName": "oregeneration-1.0.0.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/KROFN/krofne-minecraft-pack/main/mods/oregeneration-1.0.0.jar",
+      "sha512": "ffd68b325c0208d134c3e5b43f47e8dd9a1482ca1a4f4f2e64ac880f1f3775d4527d39760a54a5bdb63c8a729da534de4c6e488f7cb8f606152a89bae4d70589",
+      "sizeBytes": 28692,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "id": "patchouli",
+      "name": "Patchouli-1.20.1-85-FORGE",
+      "fileName": "Patchouli-1.20.1-85-FORGE.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/KROFN/krofne-minecraft-pack/main/mods/Patchouli-1.20.1-85-FORGE.jar",
+      "sha512": "15aedda4efcc553d5e3c83aa867b62554bc2fab298b43f55ed324e10507a3605f0ec2c59c01476e6d80b2a49275ef080142e43a6e663f9463b62f520960fc203",
+      "sizeBytes": 642732,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "id": "polymorph",
+      "name": "polymorph-forge-0.49.10+1.20.1 (1)",
+      "fileName": "polymorph-forge-0.49.10+1.20.1 (1).jar",
+      "downloadUrl": "https://raw.githubusercontent.com/KROFN/krofne-minecraft-pack/main/mods/polymorph-forge-0.49.10+1.20.1 (1).jar",
+      "sha512": "c36b4c3b893fa01619cf03750878913f37b59854282cd25ff61a8a81da59f0d8f0cb42da8da1e2ab20d0d86f8e0ad6e9bdf69925d1336a03fd23dbf9b232fe87",
+      "sizeBytes": 299601,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "id": "powerutils",
+      "name": "powerutils-1.8",
+      "fileName": "powerutils-1.8.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/KROFN/krofne-minecraft-pack/main/mods/powerutils-1.8.jar",
+      "sha512": "4f1c1cf112e8982462a096f063afa29894dc66903f3d9cd4dfc801fe34583808b8a1ccdf17b51b98c714409a618e3ba1e79e06830332f6435c5492a40cbaa952",
+      "sizeBytes": 71203,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "id": "quantumgenerators",
+      "name": "quantumgenerators-1.7",
+      "fileName": "quantumgenerators-1.7.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/KROFN/krofne-minecraft-pack/main/mods/quantumgenerators-1.7.jar",
+      "sha512": "05bf147e3c68755897e8a986d222cee3a1a7b4f83f3e2fba612a6ebe7e8132e0323a1fc4bde223b76d5029c95c1de46e9a3a1dbe0ed28d7d9266c46f7c3bb8d9",
+      "sizeBytes": 159554,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "id": "reactorplus",
+      "name": "reactorplus-1.20.1-1.1",
+      "fileName": "reactorplus-1.20.1-1.1.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/KROFN/krofne-minecraft-pack/main/mods/reactorplus-1.20.1-1.1.jar",
+      "sha512": "b285c13dd8791b68699addca3d47ca85add6ce08a864ab09c79140346e5c97dbc1a4c7624bf7ac76ebefe146ef818f796002d6a3e2e9d673697488722bc6b722",
+      "sizeBytes": 33335,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "id": "resourcefullib",
+      "name": "resourcefullib-forge-1.20.1-2.1.29",
+      "fileName": "resourcefullib-forge-1.20.1-2.1.29.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/KROFN/krofne-minecraft-pack/main/mods/resourcefullib-forge-1.20.1-2.1.29.jar",
+      "sha512": "8dbe951d431545a7d18081a8b11a52a248e6d8ff9862ae6462b0f5a6f57ff523af12704c3adb071ae99a7c5c1dd895bd7875dea59f9c4956c1597a668b6e8820",
+      "sizeBytes": 432753,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "id": "sereneseasons",
+      "name": "SereneSeasons-forge-1.20.1-9.1.0.2(1)",
+      "fileName": "SereneSeasons-forge-1.20.1-9.1.0.2(1).jar",
+      "downloadUrl": "https://raw.githubusercontent.com/KROFN/krofne-minecraft-pack/main/mods/SereneSeasons-forge-1.20.1-9.1.0.2(1).jar",
+      "sha512": "c6f07460e984bebde700560f0e9a699935e9bd3201d51521b275178b83a92500975915072a09c50e5ab5987366a0de3aec36883d6bfdf06583934cd24fb7766c",
+      "sizeBytes": 160888,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "id": "simplyquarries",
+      "name": "simplyquarries-1.7",
+      "fileName": "simplyquarries-1.7.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/KROFN/krofne-minecraft-pack/main/mods/simplyquarries-1.7.jar",
+      "sha512": "73eb299742fac0488719005f9aacb84abf60c424e8460e1871a868486962f76c0ba7ea314ef159748585e95492d60550c4be8f6c816c0b93ce1d8c96113e47f7",
+      "sizeBytes": 136173,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "id": "sophisticatedbackpacks",
+      "name": "sophisticatedbackpacks-1.20.1-3.24.31.1628",
+      "fileName": "sophisticatedbackpacks-1.20.1-3.24.31.1628.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/KROFN/krofne-minecraft-pack/main/mods/sophisticatedbackpacks-1.20.1-3.24.31.1628.jar",
+      "sha512": "4225a6143e8981bfdb42cab08233f5eeb81f7971009474e306e13c79ebf13f45a50134b3db0c73067b1764032dd0161ffd63833df259f5cbe87bc72ee09b9e33",
+      "sizeBytes": 1016608,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "id": "sophisticatedcore",
+      "name": "sophisticatedcore-1.20.1-1.3.12.1578",
+      "fileName": "sophisticatedcore-1.20.1-1.3.12.1578.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/KROFN/krofne-minecraft-pack/main/mods/sophisticatedcore-1.20.1-1.3.12.1578.jar",
+      "sha512": "e0a8d9c94f68e6ed06130214039615f5a3f72a2f947e71131c171bc4bc63834f4c59249effc1f86c02df6f88717e9c5d7ddbfc128d5e1ac568127fdd944e62e9",
+      "sizeBytes": 1423513,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "id": "steam_rails",
+      "name": "Steam_Rails-1.7.2+forge-mc1.20.1",
+      "fileName": "Steam_Rails-1.7.2+forge-mc1.20.1.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/KROFN/krofne-minecraft-pack/main/mods/Steam_Rails-1.7.2+forge-mc1.20.1.jar",
+      "sha512": "f97597d15e82286dd6425795c49b53b85f2cad7e97d8103cb21b4fa6375c4db6df34b2a732097bd451963790d6bad53bdc11b427a7d5d20bd9f03ed708443973",
+      "sizeBytes": 16819720,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "id": "supplementaries",
+      "name": "supplementaries-1.20-3.1.42-forge(1)",
+      "fileName": "supplementaries-1.20-3.1.42-forge(1).jar",
+      "downloadUrl": "https://raw.githubusercontent.com/KROFN/krofne-minecraft-pack/main/mods/supplementaries-1.20-3.1.42-forge(1).jar",
+      "sha512": "8d52268d665af7d82186cec39d80216078fcf80c3960df07c0ebcf3bf6ff427329932bc2ad7536757a00e26b91c89cbbd4292ed367be786a84ddc00c1bbf208a",
+      "sizeBytes": 13661432,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "id": "terralith",
+      "name": "Terralith_1.20.x_v2.5.4(1)",
+      "fileName": "Terralith_1.20.x_v2.5.4(1).jar",
+      "downloadUrl": "https://raw.githubusercontent.com/KROFN/krofne-minecraft-pack/main/mods/Terralith_1.20.x_v2.5.4(1).jar",
+      "sha512": "885e171d8b34aae7e142f082d0364285ec5a8e8342f11c60d341f7a94083d5a42c4e30612fe4f9f64d57b484396a3dff3a224e2a2497d4ced8d22f2ad6cd561d",
+      "sizeBytes": 3156901,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "id": "titanium",
+      "name": "titanium-1.20.1-3.8.32",
+      "fileName": "titanium-1.20.1-3.8.32.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/KROFN/krofne-minecraft-pack/main/mods/titanium-1.20.1-3.8.32.jar",
+      "sha512": "c4563176fad77499859691d8b5e18c35e08fec0a31f57f9e51f3538462f1ad738fb29335fc46d5857bffbdfc2dbd49bb32dc96614876d1f858b8cc81d6264057",
+      "sizeBytes": 622068,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "id": "toughasnails",
+      "name": "ToughAsNails-forge-1.20.1-9.2.0.171",
+      "fileName": "ToughAsNails-forge-1.20.1-9.2.0.171.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/KROFN/krofne-minecraft-pack/main/mods/ToughAsNails-forge-1.20.1-9.2.0.171.jar",
+      "sha512": "4d9c61a79119051095ba7682fc00930a14df05ed9464b0647ad37ae281eeee212c11d6f506b0ba6f89d7b80543cd28a7df114e610d741dc96a312126d33265f7",
+      "sizeBytes": 459479,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "id": "tsarquarry",
+      "name": "tsarquarry-1.0.0",
+      "fileName": "tsarquarry-1.0.0.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/KROFN/krofne-minecraft-pack/main/mods/tsarquarry-1.0.0.jar",
+      "sha512": "53e2e2aaec1ecf8f4033e3f72ca9ac863bc9de4bb50e93521811479b117420205ac2562ff8f6521d45ccd5253ae2d4520d1b3435c705a76a9ef578ce88f51ebc",
+      "sizeBytes": 387065,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "id": "wateringcan",
+      "name": "wateringcan-1.0",
+      "fileName": "wateringcan-1.0.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/KROFN/krofne-minecraft-pack/main/mods/wateringcan-1.0.jar",
+      "sha512": "c086cadb8f47ec99909bfc9da5c393566ed8a7b632e2bb9f5962c7b5a613cfcdbd092531465d5d6a8d7f0a257e94defccfd71d4458fa568c2dda7f53b7be3dfe",
+      "sizeBytes": 13894,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "id": "xaerominimap",
+      "name": "xaerominimap-forge-1.20.1-25.3.10",
+      "fileName": "xaerominimap-forge-1.20.1-25.3.10.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/KROFN/krofne-minecraft-pack/main/mods/xaerominimap-forge-1.20.1-25.3.10.jar",
+      "sha512": "ad7d8e38419c91f77ac09a77c3972256977458ef50c5560b1d11f293b2a6ff4d04dee8ebfaa2688776c3db9a64e946f835229ebd0d89391e39bee5ad16bebd0a",
+      "sizeBytes": 2146522,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "id": "xaeroworldmap",
+      "name": "xaeroworldmap-forge-1.20.1-1.40.11",
+      "fileName": "xaeroworldmap-forge-1.20.1-1.40.11.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/KROFN/krofne-minecraft-pack/main/mods/xaeroworldmap-forge-1.20.1-1.40.11.jar",
+      "sha512": "210376e3377a7c75ecd5ccaa509cf1d574ff5e2fb833ac93060423efd6104a0a435bd0e8804ee2d17f9bd60bd0d1267cfe9ee42435db18f12f4f87aca67c8900",
+      "sizeBytes": 1388342,
+      "required": true,
+      "side": "both"
+    }
+  ]
+}

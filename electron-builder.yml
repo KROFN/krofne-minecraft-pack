@@ -1,0 +1,20 @@
+appId: com.krofne.packupdater
+productName: krofnePackUpdater
+directories:
+  output: dist
+  buildResources: resources
+win:
+  target: nsis
+  icon: resources/icon.ico
+nsis:
+  oneClick: false
+  allowToChangeInstallationDirectory: true
+  installerIcon: resources/icon.ico
+  uninstallerIcon: resources/icon.ico
+  installerHeaderIcon: resources/icon.ico
+files:
+  - dist/**/*
+  - dist-electron/**/*
+  - "!node_modules"
+extraMetadata:
+  main: dist-electron/main.js

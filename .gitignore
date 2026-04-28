@@ -1,0 +1,18 @@
+@"
+# krofnePackUpdater runtime junk
+*.download
+.krofne-sync-state.json
+
+# updater backup folders
+_backup_by_krofne_pack/
+_disabled_by_krofne_pack/
+
+# local drafts
+manifest.draft.json
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+"@ | Set-Content -Encoding UTF8 .gitignore
+node_modules
