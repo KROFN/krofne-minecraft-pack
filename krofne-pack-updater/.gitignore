@@ -1,0 +1,24 @@
+node_modules/
+dist/
+dist-electron/
+release/
+*.tsbuildinfo
+*.log
+
+# Download temp files
+*.download
+
+# Sync state
+.krofne-sync-state.json
+
+# Krofne folders (user data, not source)
+_backup_by_krofne_pack/
+_disabled_by_krofne_pack/
+_krofne_download_cache/
+
+# Draft manifests
+manifest.draft.json
+
+# OS files
+.DS_Store
+Thumbs.db
